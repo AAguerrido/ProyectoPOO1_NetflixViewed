@@ -5,11 +5,11 @@
  */
 package com.AlfonsoTX.vista;
 
-import com.AlejandroTX.controlador.Coordinador;
+import com.AlfonsoTX.controlador.Coordinador;
 
 /**
  *
- * @author RAI
+ * @author Alfonso
  */
 public class Aplicacion {
     public static void main(String[] args) {
